@@ -1,0 +1,24 @@
+{
+  "homeQuotes": [
+    {
+      "id": "quote-1",
+      "indexLabel": "01 / 01",
+      "theme": "Horizons",
+      "text": "Dream big,\nCapture more,\nLive deeper.",
+      "attribution": "Jihad",
+      "signatureId": "jihad-classic",
+      "context": "Personal Manifesto"
+    }
+  ],
+  "allQuotes": [
+    {
+      "id": "quote-1",
+      "indexLabel": "01 / 01",
+      "theme": "Horizons",
+      "text": "Dream big,\nCapture more,\nLive deeper.",
+      "attribution": "Jihad",
+      "signatureId": "jihad-classic",
+      "context": "Personal Manifesto"
+    }
+  ]
+}

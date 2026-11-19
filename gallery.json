@@ -1,0 +1,14 @@
+[
+  {
+    "id": "silver-meridian",
+    "title": "Silver Meridian at Dusk",
+    "category": "Seascapes",
+    "src": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_PHOTO.jpg",
+    "alt": "Monochrome ocean dusk",
+    "location": "Indian Ocean",
+    "year": "2026",
+    "exif": "35mm · f/5.6 · 1/1250s · ISO 100",
+    "story": "Short story behind the shot.",
+    "bentoSlot": "lead"
+  }
+]

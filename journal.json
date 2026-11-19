@@ -1,0 +1,17 @@
+[
+  {
+    "id": "first-sea-note",
+    "title": "Your Story Title",
+    "category": "Voyage Logs",
+    "date": "November 2026",
+    "readTime": "3 min read",
+    "location": "At Sea",
+    "coverSrc": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/YOUR_COVER.jpg",
+    "coverAlt": "Cover image description",
+    "excerpt": "Short 1-2 line summary shown on the card.",
+    "paragraphs": [
+      "First paragraph of your story.",
+      "Second paragraph of your story."
+    ]
+  }
+]
