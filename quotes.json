@@ -1,0 +1,94 @@
+{
+  "homeQuotes": [
+    {
+      "id": "test-quote-1",
+      "indexLabel": "01 / 04",
+      "theme": "Horizons",
+      "text": "Dummy Quote One:\nChart the unknown,\nframe the quiet.",
+      "attribution": "Jihad",
+      "signatureId": "jihad-classic",
+      "context": "Cloudflare Pages Test"
+    },
+    {
+      "id": "test-quote-2",
+      "indexLabel": "02 / 04",
+      "theme": "At Sea",
+      "text": "Dummy Quote Two:\nTides change daily,\nstillness stays within.",
+      "attribution": "J. I. Jihad",
+      "signatureId": "jihad-monogram",
+      "context": "Test Watch Log"
+    },
+    {
+      "id": "test-quote-3",
+      "indexLabel": "03 / 04",
+      "theme": "Photography",
+      "text": "Dummy Quote Three:\nShadows hold the story\nthat brightness forgets.",
+      "attribution": "Jihad — Lens",
+      "signatureId": "jihad-lens",
+      "context": "Test Darkroom Note"
+    },
+    {
+      "id": "test-quote-4",
+      "indexLabel": "04 / 04",
+      "theme": "Solitude",
+      "text": "Dummy Quote Four:\nFar from harbor lights,\nevery star feels close.",
+      "attribution": "Jahidul Islam",
+      "signatureId": "jahidul-full",
+      "context": "Test Anchorage Note"
+    }
+  ],
+  "allQuotes": [
+    {
+      "id": "test-quote-1",
+      "indexLabel": "01 / 06",
+      "theme": "Horizons",
+      "text": "Dummy Quote One:\nChart the unknown,\nframe the quiet.",
+      "attribution": "Jihad",
+      "signatureId": "jihad-classic",
+      "context": "Cloudflare Pages Test"
+    },
+    {
+      "id": "test-quote-2",
+      "indexLabel": "02 / 06",
+      "theme": "At Sea",
+      "text": "Dummy Quote Two:\nTides change daily,\nstillness stays within.",
+      "attribution": "J. I. Jihad",
+      "signatureId": "jihad-monogram",
+      "context": "Test Watch Log"
+    },
+    {
+      "id": "test-quote-3",
+      "indexLabel": "03 / 06",
+      "theme": "Photography",
+      "text": "Dummy Quote Three:\nShadows hold the story\nthat brightness forgets.",
+      "attribution": "Jihad — Lens",
+      "signatureId": "jihad-lens",
+      "context": "Test Darkroom Note"
+    },
+    {
+      "id": "test-quote-4",
+      "indexLabel": "04 / 06",
+      "theme": "Solitude",
+      "text": "Dummy Quote Four:\nFar from harbor lights,\nevery star feels close.",
+      "attribution": "Jahidul Islam",
+      "signatureId": "jahidul-full",
+      "context": "Test Anchorage Note"
+    },
+    {
+      "id": "test-quote-5",
+      "indexLabel": "05 / 06",
+      "theme": "At Sea",
+      "text": "Dummy Quote Five:\nA compass points north,\na camera points inward.",
+      "attribution": "Jihad",
+      "context": "Test Bridge Entry"
+    },
+    {
+      "id": "test-quote-6",
+      "indexLabel": "06 / 06",
+      "theme": "Photography",
+      "text": "Dummy Quote Six:\nKeep only the light\nthat survives in black and white.",
+      "attribution": "Jihad",
+      "context": "Test Archive Note"
+    }
+  ]
+}
