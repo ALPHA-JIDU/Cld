@@ -1,0 +1,48 @@
+[
+  {
+    "id": "dummy-voyage-dispatch-1",
+    "title": "Test Dispatch: Crossing the Equatorial Doldrums",
+    "category": "Voyage Logs",
+    "date": "November 2026",
+    "readTime": "3 min read",
+    "location": "01°08′N 74°30′E",
+    "coverSrc": "https://picsum.photos/1200/800?random=201",
+    "coverAlt": "Calm equatorial sea under overcast sky test cover",
+    "excerpt": "Dummy test article to verify live journal.json fetching, reader modal rendering, and category filtering.",
+    "paragraphs": [
+      "This is paragraph one of the dummy voyage log entry. When hosted on Cloudflare Pages, updating this text should appear immediately on the Sea Journal page.",
+      "Between radar checks and weather observations, calm equatorial water turns the sea into an endless mirror of slate and silver.",
+      "This is the closing paragraph for testing multi-paragraph layout, deep-link URL hashes, and social share buttons."
+    ]
+  },
+  {
+    "id": "dummy-photo-notes-2",
+    "title": "Test Essay: Notes on Salt Air & 35mm Lenses",
+    "category": "Photography",
+    "date": "October 2026",
+    "readTime": "2 min read",
+    "location": "Malacca Strait",
+    "coverSrc": "https://picsum.photos/1200/800?random=202",
+    "coverAlt": "Monochrome ocean mist test cover",
+    "excerpt": "Dummy photography essay testing dynamic essay counts and Picsum cover loading.",
+    "paragraphs": [
+      "Dummy paragraph one discussing shooting in overcast maritime light with a single prime lens.",
+      "Dummy paragraph two confirming clean typography inside the accessible article reader modal."
+    ]
+  },
+  {
+    "id": "dummy-port-reflections-3",
+    "title": "Test Reflection: Late Night Lights at Anchorage",
+    "category": "Reflections",
+    "date": "September 2026",
+    "readTime": "4 min read",
+    "location": "Singapore Outer Anchorage",
+    "coverSrc": "https://picsum.photos/1200/800?random=203",
+    "coverAlt": "Distant harbor lights at dusk test cover",
+    "excerpt": "Dummy reflection essay verifying that the Reflections filter tab and share dock work properly.",
+    "paragraphs": [
+      "Dummy paragraph one describing anchored vessels waiting for pilot boarding at midnight.",
+      "Dummy paragraph two testing hash navigation (#dummy-port-reflections-3) and clipboard link sharing."
+    ]
+  }
+]
