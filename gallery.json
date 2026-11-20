@@ -1,0 +1,98 @@
+[
+  {
+    "id": "dummy-horizon-watch",
+    "title": "Test Frame: First Light on Deck",
+    "category": "Seascapes",
+    "src": "https://picsum.photos/1200/900?random=101",
+    "alt": "Monochrome ocean sunrise test frame",
+    "location": "Bay of Bengal · 14°22′N 88°45′E",
+    "year": "2026",
+    "exif": "35mm · f/5.6 · 1/1000s · ISO 100",
+    "story": "Dummy test entry to confirm remote gallery.json loading from Cloudflare Pages.",
+    "bentoSlot": "lead"
+  },
+  {
+    "id": "dummy-harbor-mist",
+    "title": "Test Frame: Quiet Breakwater",
+    "category": "Solitude",
+    "src": "https://picsum.photos/1200/900?random=102",
+    "alt": "Misty coastal breakwater test frame",
+    "location": "Port Klang",
+    "year": "2026",
+    "exif": "50mm · f/2.8 · 1/500s · ISO 200",
+    "story": "Dummy solitude study along the outer harbor wall.",
+    "bentoSlot": "top-1"
+  },
+  {
+    "id": "dummy-open-passage",
+    "title": "Test Frame: Steady Heading",
+    "category": "Voyages",
+    "src": "https://picsum.photos/1200/900?random=103",
+    "alt": "Cargo ship crossing open water test frame",
+    "location": "South China Sea",
+    "year": "2026",
+    "exif": "28mm · f/8.0 · 1/640s · ISO 160",
+    "story": "Dummy voyage frame captured during morning watch.",
+    "bentoSlot": "top-2"
+  },
+  {
+    "id": "dummy-steel-lines",
+    "title": "Test Frame: Dockyard Geometry",
+    "category": "Architecture",
+    "src": "https://picsum.photos/1200/900?random=104",
+    "alt": "Geometric crane and pier structure test frame",
+    "location": "Busan Terminal",
+    "year": "2026",
+    "exif": "24mm · f/9.0 · 1/400s · ISO 100",
+    "story": "Dummy architectural study of gantry cranes at dusk.",
+    "bentoSlot": "top-3"
+  },
+  {
+    "id": "dummy-low-tide",
+    "title": "Test Frame: Ebb & Stillness",
+    "category": "Solitude",
+    "src": "https://picsum.photos/1200/900?random=105",
+    "alt": "Minimalist shoreline reflection test frame",
+    "location": "Saint Martin's Island",
+    "year": "2026",
+    "exif": "35mm · f/4.0 · 1/1250s · ISO 100",
+    "story": "Dummy minimalist shoreline reflection at low tide.",
+    "bentoSlot": "top-4"
+  },
+  {
+    "id": "dummy-squall-line",
+    "title": "Test Frame: Approaching Front",
+    "category": "Voyages",
+    "src": "https://picsum.photos/1200/900?random=106",
+    "alt": "Dark storm clouds over ocean horizon test frame",
+    "location": "Red Sea Passage",
+    "year": "2026",
+    "exif": "35mm · f/5.6 · 1/800s · ISO 400",
+    "story": "Dummy storm front building on the western horizon.",
+    "bentoSlot": "bottom-1"
+  },
+  {
+    "id": "dummy-wake-trail",
+    "title": "Test Frame: Silver Wake",
+    "category": "Seascapes",
+    "src": "https://picsum.photos/1200/900?random=107",
+    "alt": "Ship wake trailing across calm dark sea test frame",
+    "location": "Andaman Sea",
+    "year": "2026",
+    "exif": "85mm · f/4.0 · 1/1600s · ISO 200",
+    "story": "Dummy seascape frame looking astern before sunset.",
+    "bentoSlot": "bottom-2"
+  },
+  {
+    "id": "dummy-pier-symmetry",
+    "title": "Test Frame: Pier Pilings",
+    "category": "Architecture",
+    "src": "https://picsum.photos/1200/900?random=108",
+    "alt": "Symmetric concrete pier pilings test frame",
+    "location": "Fujairah Anchorage",
+    "year": "2026",
+    "exif": "50mm · f/11 · 1/250s · ISO 100",
+    "story": "Dummy architectural symmetry frame near anchorage.",
+    "bentoSlot": "bottom-3"
+  }
+]
