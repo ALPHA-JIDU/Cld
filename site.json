@@ -1,0 +1,51 @@
+{
+  "hero": {
+    "greeting": "Hello, I'm",
+    "firstName": "Jahidul Islam",
+    "lastName": "Jihad",
+    "roleLines": [
+      "A Mariner by Profession,",
+      "A Photographer by Passion."
+    ],
+    "tagline": "Sailing through life, capturing its beauty...",
+    "portrait": "https://i.ibb.co.com/HTzQfRQy/Picsart-26-11-14-22-21-08-763.jpg",
+    "portraitAlt": "Jahidul Islam Jihad — Monochrome Portrait"
+  },
+  "bio": {
+    "lead": "I'm a ",
+    "highlight": "sailor at heart",
+    "rest": ", a photographer by passion, and a lifelong learner. Through my lens and words, I try to find beauty in the ordinary, peace in the chaos, and meaning in every moment."
+  },
+  "showMetrics": true,
+  "metrics": [
+    {
+      "value": "08+",
+      "label": "Countries\nVisited"
+    },
+    {
+      "value": "1K+",
+      "label": "Moments\nCaptured"
+    },
+    {
+      "value": "∞",
+      "label": "Stories\nTo Tell"
+    }
+  ],
+  "explore": {
+    "description": "Explore collected reflections and stories written between watches at sea.",
+    "quoteButton": "All Quotes",
+    "journalButton": "Read Sea Journal & Essays"
+  },
+  "connect": {
+    "heading": "Let's Connect",
+    "subtitle": "Have a thought? Let's talk.",
+    "socials": {
+      "youtube": "https://youtube.com",
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "x": "https://x.com"
+    }
+  },
+  "footerText": "© 2026 Jahidul Islam Jihad. All rights reserved."
+}
