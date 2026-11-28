@@ -1,4 +1,14 @@
 {
+  "theme": {
+    "background": "#080808",
+    "surface": "#0e0e0e",
+    "card": "#111111",
+    "text": "#f5f5f5",
+    "muted": "#a3a3a3",
+    "accent": "#ffffff",
+    "accentText": "#0a0a0a",
+    "border": "rgba(255, 255, 255, 0.12)"
+  },
   "hero": {
     "greeting": "Hello, I'm",
     "firstName": "Jahidul Islam",
